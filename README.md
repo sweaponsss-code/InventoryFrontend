@@ -17,7 +17,9 @@ If you are developing a production application, we recommend using TypeScript wi
 "# InventoryFrontend" 
 
 ## 재고관리 프로그램 Frontend(Test)
-<img src="./img/inventory-frontend.pdf">
+<img src="./img/재고 입출고 처리.png">
+<img src="./img/품목 재고 현황.png">
+<img src="./img/재고거래기록.png">
 
 ### 재고관리 프로그램 아키텍처
 <img src="./img/InventoryProject_아키텍처.png">
